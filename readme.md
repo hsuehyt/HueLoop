@@ -1,3 +1,12 @@
+# Hue Loop Script
+
+This Unity script smoothly animates the hue of a skybox material that has a "Tint Color" property, creating a dynamic color transition over time. The effect is similar to RGB lighting where the colors gradually change in a loop.
+
+## Features
+
+- **Real-time Hue Shifting**: The script continuously cycles through the hue spectrum, providing a dynamic and colorful effect for the skybox.
+- **Customizable Speed**: The speed of the hue change can be adjusted through the `hueSpeed` parameter.
+
 ## Requirements
 
 - Unity 2020 or later
